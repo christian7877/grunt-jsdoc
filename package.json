@@ -40,7 +40,7 @@
     "load-grunt-tasks": "^5.1.0"
   },
   "dependencies": {
-    "cross-spawn": "^7.0.1",
+    "cross-spawn": "^7.0.2",
     "jsdoc": "^3.6.3"
   },
   "keywords": [
